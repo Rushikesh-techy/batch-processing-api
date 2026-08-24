@@ -367,7 +367,7 @@ Parameters: [ "mongodb", "python", "javascript" ]
 ## 🐛 Troubleshooting
 
 ### "Connection refused" error
-- Ensure Flask server is running: `python app.py`
+- Ensure Flask server is running: `python batch_processing.py`
 - Check port 5000 is available
 - Try accessing http://127.0.0.1:5000 directly
 
